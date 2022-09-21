@@ -1,0 +1,6 @@
+.bg-login-image {
+    background: url(../img/logohonda.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;;
+}
